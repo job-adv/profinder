@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "334674487742",
+    "project_id": "profinder-c46e0",
+    "storage_bucket": "profinder-c46e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334674487742:android:0a047037084400fe0e71ef",
+        "android_client_info": {
+          "package_name": "com.example.profinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFUriY4akHgcUDgEiu38opXxpWXxOMlDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334674487742:android:b08e58034ac199980e71ef",
+        "android_client_info": {
+          "package_name": "com.profinder.eartsian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFUriY4akHgcUDgEiu38opXxpWXxOMlDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
